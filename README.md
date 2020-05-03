@@ -8,6 +8,11 @@ Contains Theory and codes on problems related to network/graphs and trees
   * Icosian Game
   * Finding Eulerian circuits
   
+## Advanced Problems
+  * Probabilistic Graphical Models and ML
+  * Capacitated Facility Allocation using graph algorithms
+  * Genetic Algorithm and Crossover
+  
 ## Algorithms
   * Dijktsra's Algorithm
   * Bellman-Ford 
@@ -20,3 +25,6 @@ Contains Theory and codes on problems related to network/graphs and trees
   * Genetic Algorithm
   * Dynamic Programming (Memoization and Tabulation)
   
+## Javascript Visualizations 
+  * Graph Problems
+  * Map Networks
